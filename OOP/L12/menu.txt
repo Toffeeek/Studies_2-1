@@ -1,4 +1,4 @@
 1|Dim|5
 2|Paratha|10
-3|Daal|10
+1|Dim|5
 4|Bhaat|10

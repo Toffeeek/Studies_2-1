@@ -1,0 +1,4 @@
+3         |BBC                 |20.50          |unknown  
+1         |BBL                 |80.50          |unknown 
+5         |ABG                 |80.50          |topsecret 
+5         |ABG                 |80.50          |topsecret 

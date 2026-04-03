@@ -214,12 +214,14 @@ int main()
     // ios::app for appending
     // ios::out for writing
     ofstream sales("sales.txt", ios::out);
-    MenuItem::printHeader(cout);
+    MenuItem::printHeader(sales);
     sales.close();
     
     recordSale("sales.txt", 1, dim, 1);
     recordSale("sales.txt", 2, paratha, 2);
     recordSale("sales.txt", 3, daal, 1);
+
+
 
     
 

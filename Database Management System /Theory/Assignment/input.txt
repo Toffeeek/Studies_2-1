@@ -1,0 +1,2 @@
+R(A,B,C,D, E, F)
+AB->C, C->DE, E->F, D->A, C->B
