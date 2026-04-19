@@ -1,0 +1,12 @@
+There are a total of 9 possible CK's. They are given below:
+1. {B, C}
+2. {B, C, D}
+3. {B, C, E}
+4. {B, D}
+5. {B, D, E}
+6. {C}
+7. {C, D}
+8. {C, D, E}
+9. {C, E}
+The shortest CK(s) are:
+1. {C}
